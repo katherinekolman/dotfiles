@@ -11,4 +11,7 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias la="ls -a"
 
-PS1='[\u@\h \W]\$ '
+#PS1='[\u@\h \W]\$ '
+PS1="[\u] \W > "
+
+fortune | cowthink
