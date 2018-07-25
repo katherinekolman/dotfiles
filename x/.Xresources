@@ -1,14 +1,12 @@
-Xft.dpi:              150
+Xft.dpi:                150
 
-*font:           xft:xos4 Terminus:style=Regular:size=12
-*boldFont:       xft:xos4 Terminus:style=Bold:size=12
+*font:             xft:xos4 Terminus:style=Regular:size=12
+*boldFont:         xft:xos4 Terminus:style=Bold:size=12
 
-URxvt*termName:       rxvt-256color
-URxvt*scrollBar:      false
-!!URxvt*transparent:    true
-!!URxvt*shading:        10
-URxvt*background:     rgb:22/23/24  
-URxvt*borderColor:    rgb:22/23/24
-URxvt*internalBorder: 30
-URxvt*lineSpace:      1
-URxvt*url-launcher:   firefox
+URxvt*termName:         rxvt-256color
+URxvt*scrollBar:        false
+URxvt*background:       rgb:22/22/22  
+URxvt*borderColor:      rgb:22/22/22
+URxvt*internalBorder:   40
+URxvt*lineSpace:        1
+URxvt*url-launcher:     firefox

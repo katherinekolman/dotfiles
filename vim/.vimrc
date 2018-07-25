@@ -7,4 +7,5 @@ set softtabstop=4
 set expandtab
 set laststatus=2
 set noshowmode
+set mouse=a
 " autocmd vimenter * NERDTree

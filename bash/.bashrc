@@ -10,8 +10,9 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias la="ls -a"
+alias ll="ls -l"
+alias l="ls"
 
 #PS1='[\u@\h \W]\$ '
 PS1="[\u] \W > "
 
-fortune | cowthink
