@@ -1,7 +1,7 @@
 Xft.dpi:                150
 
-*font:             xft:xos4 Terminus:style=Regular:size=12
-*boldFont:         xft:xos4 Terminus:style=Bold:size=12
+*font:                  xft:xos4 Terminus:style=Regular:size=12
+*boldFont:              xft:xos4 Terminus:style=Bold:size=12
 
 URxvt*termName:         rxvt-256color
 URxvt*scrollBar:        false
